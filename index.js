@@ -17,7 +17,6 @@ switch (true) {
 
     case xpDoHeroi >= 5001 && xpDoHeroi <= 7000:
     classificaçaoDoHeroi = "Ouro"
-    console.log(msgAutoRank + nomeDoRank)
     break
 
     case xpDoHeroi >= 7001 && xpDoHeroi <= 8000:
